@@ -1,4 +1,4 @@
-# 👋 E aí! Eu sou o João Filipe 😎
+# 👋 E aí! Eu sou o João Filipe.
 
 🎓 Estudante de Ciência da Computação (a.k.a. domador de bugs e quebrador de cabeças)  
 💻 Apaixonado por transformar café em código — principalmente Java, Python e um pouco de "gambiware" também  
