@@ -1,39 +1,39 @@
-# 👋 E aí! Eu sou o João Filipe.
+# Olá, sou **Jhonfi** 👋
 
-🎓 Estudante de Ciência da Computação (a.k.a. domador de bugs e quebrador de cabeças)  
-💻 Apaixonado por transformar café em código — principalmente Java, Python e um pouco de "gambiware" também  
-🧠 Viciado em lógica, resolução de problemas e em tentar entender por que aquele `null` apareceu ali  
-📊 Curioso por dados, banco de dados, MySQL, e tudo que envolva uma boa estrutura (menos planilhas do Excel… essas me dão pesadelos)  
-🎮 Gamer nas horas vagas, programador nas outras (às vezes misturo os dois)
+Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por programação e novas tecnologias. Atualmente, estou focado em **Node.js**, **Python**, **JavaScript**, **Django**, **SQLite** e outras ferramentas incríveis que tornam o desenvolvimento de software mais divertido e eficiente.
+
+## 🚀 Sobre Mim
+
+- 🔭 Atualmente, trabalhando com **Node.js**, **Express**, **SQLite** e **Django**
+- 🌱 Sempre aprendendo novas stacks e melhores práticas
+- ⚡ Interesse em **back-end**, **desenvolvimento web** e **engenharia de software**
+- 💬 Bora trocar uma ideia sobre código, projetos ou tech?
+- 📫 Me chama aqui: [joaofillipi2001@gmail.com](mailto:joaofillipi2001@gmail.com)
+
+## 🛠️ Ferramentas que uso
+
+| Linguagens         | Frameworks & Bibliotecas     | Banco de Dados | Ferramentas & Outros           |
+|--------------------|------------------------------|----------------|-------------------------------|
+| JavaScript         | Express                      | SQLite         | Git & GitHub                  |
+| Python             | Django                       | MySQL (estudando) | VSCode                        |
+| HTML5              | React (em aprendizado)       |                | Figma (para UI/UX)           |
+| CSS3               | Bootstrap (às vezes)         |                | Postman (testes de API)      |
+| Java (básico)      |                              |                | Insomnia (testes de API)     |
+| SQL                |                              |                | Google Chrome DevTools       |
+
+## 📈 GitHub Stats
+
+[![Jhonfi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonfi&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/jhonfi)
+
+## 📊 Linguagens mais usadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonfi&layout=compact&theme=tokyonight)](https://github.com/jhonfi)
+
+## 🔗 Conecte-se comigo
+
+- 📸 [Instagram](https://www.instagram.com/joaofillipej/?next=%2F)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-filipe-09aa84308/)
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas que eu uso
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
-
----
-
-## 📈 Estatísticas do GitHub
-
-![Jhonfi GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhonfi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonfi&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-filipe-09aa84308)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jhonfi)  
-📧 joaofillipi2001@gmail.com
-
----
-
-✨ _"A persistência realiza o impossível... ou pelo menos ajuda a compilar sem erro."_ 💻
+Feito com ❤️ por **Jhonfi**
