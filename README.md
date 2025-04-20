@@ -1,4 +1,4 @@
-# Olá, sou **Jhonfi** 👋
+# Olá, sou **João** 👋
 
 Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por programação e novas tecnologias. Atualmente, estou focado em **Node.js**, **Python**, **JavaScript**, **Django**, **SQLite** e outras ferramentas incríveis que tornam o desenvolvimento de software mais divertido e eficiente.
 
@@ -36,4 +36,4 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por programação e nov
 
 ---
 
-Feito com ❤️ por **Jhonfi**
+Feito com ❤️ por **João**
