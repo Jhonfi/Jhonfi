@@ -1,41 +1,45 @@
-# Olá, sou **João** 👋
+# 👨‍💻 E aí! Sou o **João**
 
-Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por programação e novas tecnologias. Atualmente, estou focado em **Node.js**, **Python**, **JavaScript**, **Django**, **SQLite** e outras ferramentas incríveis que tornam o desenvolvimento de software mais divertido e eficiente.
+Seja bem-vindo ao meu perfil! Sou desenvolvedor com sede por conhecimento e movido pela paixão em transformar ideias em código. Atualmente estou mergulhado em projetos com **Node.js**, **Python**, **Django**, **Java** e muito mais.
 
-## 🚀 Sobre Mim
+---
 
-- 🔭 Atualmente, trabalhando com **Node.js**, **Express**, **SQLite** e **Django**.
-- 📱 Ganhando experiência prática em **desenvolvimento Android** com **Java**, criando aplicativos com múltiplas telas e interações de UI.
-- 🌱 Sempre aprendendo novas stacks e melhores práticas, incluindo o ecossistema Android.
-- ⚡ Interesse em **back-end**, **desenvolvimento web**, **desenvolvimento mobile** e **engenharia de software**.
-- 💬 Bora trocar uma ideia sobre código, projetos ou tech?
+## 🚀 Um pouco sobre mim
+
+- 💼 Hoje trabalho com **Node.js**, **Express**, **SQLite** e **Django**.
+- 📱 Ganhando prática em **desenvolvimento Android com Java**, criando apps com múltiplas telas e interações.
+- 🧠 Sempre de olho em novas stacks e boas práticas (especialmente no mundo mobile e back-end).
+- ⚙️ Curioso por **back-end**, **web**, **mobile** e tudo que envolve **engenharia de software**.
+- 💬 Curte trocar uma ideia sobre dev, projetos ou tecnologia? Cola comigo!
 - 📫 Me chama aqui: [joaofillipi2001@gmail.com](mailto:joaofillipi2001@gmail.com)
 
-## 🛠️ Ferramentas que uso
+---
 
-| Linguagens         | Frameworks & Bibliotecas     | Banco de Dados | Ferramentas & Outros           |
-|--------------------|------------------------------|----------------|-------------------------------|
-| JavaScript         | Express                      | SQLite         | Git & GitHub                  |
-| Python             | Django                       | MySQL (estudando) | VSCode                        |
-| HTML5              | React (em aprendizado)       |                | Figma (para UI/UX)           |
-| CSS3               | Bootstrap (às vezes)         |                | Postman (testes de API)      |
-| **Java**           | **Android SDK**              |                | Android Studio                |
-| SQL                |                              |                | Insomnia (testes de API)     |
-|                    |                              |                | Google Chrome DevTools       |
+## 🛠️ Tech Stack
 
-## 📈 GitHub Stats
+| 💻 Linguagens | 📦 Frameworks & Bibliotecas | 🗃️ Banco de Dados | 🧰 Ferramentas |
+|--------------|------------------------------|-------------------|----------------|
+| JavaScript   | Express                      | SQLite            | Git & GitHub   |
+| Python       | Django                       | MySQL (em estudo) | VSCode         |
+| HTML/CSS     | React (aprendendo)           |                   | Figma          |
+| Java         | Android SDK                  |                   | Android Studio |
+| SQL          | Bootstrap         |                              | Postman, Insomnia, DevTools |
 
-[![Jhonfi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonfi&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/jhonfi)
+---
 
-## 📊 Linguagens mais usadas
+## 📊 GitHub em ação
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonfi&layout=compact&theme=tokyonight)](https://github.com/jhonfi)
+![Jhonfi GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonfi&show_icons=true&theme=tokyonight&count_private=true)
 
-## 🔗 Conecte-se comigo
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonfi&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Onde me encontrar
 
 - 📸 [Instagram](https://www.instagram.com/joaofillipej/?next=%2F)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-filipe-09aa84303/)
 
 ---
 
-Feito com ❤️ por **João**
+Feito com muito 💻 e ☕ por **João**
