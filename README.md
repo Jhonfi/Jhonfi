@@ -34,6 +34,8 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por programação e nov
 ## 🔗 Conecte-se comigo
 
 - 📸 [Instagram](https://www.instagram.com/joaofillipej/?next=%2F)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-filipe-09aa84303/) ---
+- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-filipe-09aa84303/)
+
+---
 
 Feito com ❤️ por **João**
