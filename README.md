@@ -1,6 +1,6 @@
 # 👨‍💻 E aí! Sou o **João**
 
-Seja bem-vindo ao meu perfil! Sou desenvolvedor com sede por conhecimento e movido pela paixão em transformar ideias em código. Atualmente estou mergulhado em projetos com **Node.js**, **Python**, **Django**, **Java** e muito mais.
+Seja bem-vindo ao meu perfil! Sou desenvolvedor com sede por conhecimento e movido pela paixão em transformar ideias em código. Atualmente estou mergulhado em projetos com **Node.js**, **Python**, **Django**, **Java** e muito mais.l.
 
 ---
 
