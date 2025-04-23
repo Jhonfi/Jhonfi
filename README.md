@@ -21,7 +21,7 @@ Seja bem-vindo ao meu perfil! Sou desenvolvedor com sede por conhecimento e movi
 |--------------|------------------------------|-------------------|----------------|
 | JavaScript   | Express                      | SQLite            | Git & GitHub   |
 | Python       | Django                       | MySQL (em estudo) | VSCode         |
-| HTML/CSS     | React (aprendendo)           |                   | Figma          |
+| HTML/CSS     | React                        |                   | Figma          |
 | Java         | Android SDK                  |                   | Android Studio |
 | SQL          | Bootstrap         |                              | Postman, Insomnia, DevTools |
 
