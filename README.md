@@ -39,7 +39,3 @@ Seja bem-vindo ao meu perfil! Sou desenvolvedor com sede por conhecimento e movi
 
 - 📸 [Instagram](https://www.instagram.com/joaofillipej/?next=%2F)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-filipe-09aa84303/)
-
----
-
-Feito com muito 💻 e ☕ por **João**
